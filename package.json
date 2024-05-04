@@ -1,0 +1,13 @@
+{
+  "name": "biome-vscode-ignore-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "^1.7.2",
+    "typescript": "^5.4.5"
+  }
+}
